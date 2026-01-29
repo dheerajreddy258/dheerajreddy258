@@ -1,16 +1,65 @@
-## Hi there 👋
+# Hi, I'm Dheeraj 👋  
+**Software Engineer | GenAI Enthusiast**
 
-<!--
-**dheerajreddy258/dheerajreddy258** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Computer Science graduate with a strong foundation in software development and a passion for building intelligent, scalable systems. I enjoy solving real-world problems through efficient and creative technological solutions.
 
-Here are some ideas to get you started:
+I’m particularly interested in Generative AI and how the intersection of human creativity and machine intelligence can drive meaningful innovation. I’m constantly exploring new ideas, tools, and approaches to create impactful systems and applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💡 Areas of Interest
+- Software Development
+- Generative AI & Machine Learning
+- Web Technologies
+- System Design & Problem Solving
+
+---
+
+## 🛠️ Technical Skills
+
+### Programming Languages
+- Java  
+- Python  
+- HTML, CSS, JavaScript  
+
+### Databases
+- MySQL  
+- MongoDB  
+
+### Frameworks & Libraries
+- React  
+- Angular  
+- Spring Boot  
+- REST APIs  
+- Bootstrap  
+- Pandas, NumPy, Matplotlib  
+
+### Tools & Platforms
+- Git, GitHub  
+- Docker  
+- VS Code  
+- Postman  
+- Jupyter Notebook  
+- Linux  
+
+### Core Concepts
+- Object-Oriented Programming (OOP)  
+- Data Structures & Algorithms (DSA)  
+- Linux Fundamentals  
+
+---
+
+## 🚀 What I'm Working On
+- Building scalable web applications  
+- Exploring Generative AI and intelligent systems  
+- Improving problem-solving and system design skills  
+
+---
+
+## 📫 Connect With Me
+- GitHub: https://github.com/dheerajreddy258
+- LinkedIn:  https://www.linkedin.com/in/dheerajreddypullela/
+- Portfolio: https://portfolio-dheeraj-reddy.netlify.app/
+
+---
+⭐ Explore my repositories and projects!
